@@ -1,6 +1,6 @@
 
 procedure 'Test', {
-  description = ''
+  description = 'test description'
   jobNameTemplate = ''
   projectName = 'Test'
   resourceName = ''
