@@ -1,4 +1,4 @@
 
 project 'Test', {
-  tracked = '1'
+  tracked = '0'
 }
